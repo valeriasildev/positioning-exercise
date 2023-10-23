@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Posicionamento exercício",
+			"path": "../../../Curso origamid/Exercícios/Posicionamento exercício"
+		},
+		{
+			"name": "img",
+			"path": "../../../Curso origamid/03-css-posicionamento/0309-posicionamento-exercicio/web/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Posicionamento exercício"
+	}
+}
